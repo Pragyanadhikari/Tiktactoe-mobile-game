@@ -32,6 +32,11 @@ A simple and fun Flutter app to play the classic Tic Tac Toe game. Challenge you
 4. Run the app  
    `flutter run`
 
+## 📦 APK Download
+
+You can download the latest APK file from the link below and install it directly on your Android device:
+[Download Tic Tac Toe APK](https://drive.google.com/drive/folders/15DYBnZCM83qw9n991ZmoQF_86_dsnTDa?usp=sharing)
+
 ## 📸 Screenshots
 
 <div>
